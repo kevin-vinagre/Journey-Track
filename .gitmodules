@@ -4,3 +4,6 @@
 [submodule "infra"]
 	path = infra
 	url = git@github.com:Kevin-DevOps-Terraform-CICD-DOCKER/Journey-Track_Infra.git
+[submodule "service/core"]
+	path = service/core
+	url = git@github.com:Kevin-Apps-NET-Blazor/Journey-Track_core-webapp.git
